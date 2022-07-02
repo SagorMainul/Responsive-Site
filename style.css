@@ -6,6 +6,9 @@ padding: 0;
 box-sizing: border-box;
 font-family: "Poppins", sans-serif;
 }
+.logo{
+    color: #226A80;
+}
 
 section{
     position: relative;
